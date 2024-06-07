@@ -7,7 +7,7 @@ This role signs a subordinate CA certificate on a Windows machine.
 
 | Platform | Versions |
 | -------- | -------- |
-| Windows | 2016, 2019, 2022 |
+| Windows | 2019, 2022 |
 
 ## Dependencies
 

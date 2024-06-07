@@ -1,10 +1,9 @@
 ---
 galaxy_info:
   author: Jim Tarpley
-  namespace: pag
+  namespace: trippsc2
   role_name: adcs_sub_ca_certificate
   description: This role signs a subordinate CA certificate on a Windows machine.
-  company: Precision Aviation Group
 
   license: MIT
 

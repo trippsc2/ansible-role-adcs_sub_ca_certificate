@@ -1,0 +1,24 @@
+---
+galaxy_info:
+  author: Jim Tarpley
+  namespace: pag
+  role_name: adcs_sub_ca_certificate
+  description: This role signs a subordinate CA certificate on a Windows machine.
+  company: Precision Aviation Group
+
+  license: MIT
+
+  min_ansible_version: '2.11'
+
+  platforms:
+    - name: Windows
+      versions:
+        - '2016'
+        - '2019'
+        - '2022'
+
+collections:
+  - ansible.windows
+  - community.windows
+
+dependencies: []

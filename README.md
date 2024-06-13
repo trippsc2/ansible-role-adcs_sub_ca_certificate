@@ -1,13 +1,13 @@
 <!-- BEGIN_ANSIBLE_DOCS -->
 
-# Ansible Role: trippsc2.adcs_sub_ca_certificate
-This role signs a subordinate CA certificate on a Windows machine.
+# Ansible Role: ansible-role-adcs_sub_ca_certificate
+DEPRECATED: Use trippsc2.adcs.sub_ca_certificate instead.
 
 ## Requirements
 
 | Platform | Versions |
 | -------- | -------- |
-| Windows | 2019, 2022 |
+| Windows | <ul><li>2019</li><li>2022</li></ul> |
 
 ## Dependencies
 
@@ -38,5 +38,5 @@ This role signs a subordinate CA certificate on a Windows machine.
 MIT
 
 ## Author and Project Information
-Jim Tarpley @ Precision Aviation Group
+Jim Tarpley
 <!-- END_ANSIBLE_DOCS -->
